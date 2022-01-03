@@ -1,0 +1,29 @@
+#profilePic{
+    height: 80%;
+    width: 60%;
+}
+#carouselExampleCaptions{
+    height: 35rem;
+    
+    
+}
+.projectImg{
+    height: 15em;
+    width: 20em;
+}
+.imgCarousel{
+    /* height: 35rem; */
+    width: 100%;
+}
+@media screen and (max-width:1200px){
+    .project{
+        display: flex;
+        
+        align-items: center;
+    }
+    .testimonials{
+        display: flex;
+        flex-direction: column;
+    }
+    
+}
